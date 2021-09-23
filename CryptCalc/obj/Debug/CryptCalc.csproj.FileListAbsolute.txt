@@ -1,0 +1,15 @@
+c:\users\r.rifkhakov\documents\visual studio 2015\Projects\CryptCalc\CryptCalc\bin\Debug\CryptCalc.exe.config
+c:\users\r.rifkhakov\documents\visual studio 2015\Projects\CryptCalc\CryptCalc\obj\Debug\CryptCalc.csprojResolveAssemblyReference.cache
+c:\users\r.rifkhakov\documents\visual studio 2015\Projects\CryptCalc\CryptCalc\obj\Debug\CryptCalc.Form1.resources
+c:\users\r.rifkhakov\documents\visual studio 2015\Projects\CryptCalc\CryptCalc\obj\Debug\CryptCalc.Properties.Resources.resources
+c:\users\r.rifkhakov\documents\visual studio 2015\Projects\CryptCalc\CryptCalc\obj\Debug\CryptCalc.csproj.GenerateResource.Cache
+c:\users\r.rifkhakov\documents\visual studio 2015\Projects\CryptCalc\CryptCalc\bin\Debug\CryptCalc.exe
+c:\users\r.rifkhakov\documents\visual studio 2015\Projects\CryptCalc\CryptCalc\bin\Debug\CryptCalc.pdb
+c:\users\r.rifkhakov\documents\visual studio 2015\Projects\CryptCalc\CryptCalc\bin\Debug\Newtonsoft.Json.dll
+c:\users\r.rifkhakov\documents\visual studio 2015\Projects\CryptCalc\CryptCalc\bin\Debug\Newtonsoft.Json.pdb
+c:\users\r.rifkhakov\documents\visual studio 2015\Projects\CryptCalc\CryptCalc\bin\Debug\Newtonsoft.Json.xml
+c:\users\r.rifkhakov\documents\visual studio 2015\Projects\CryptCalc\CryptCalc\obj\Debug\CryptCalc.exe
+c:\users\r.rifkhakov\documents\visual studio 2015\Projects\CryptCalc\CryptCalc\obj\Debug\CryptCalc.pdb
+c:\users\r.rifkhakov\documents\visual studio 2015\Projects\CryptCalc\CryptCalc\bin\Debug\HtmlAgilityPack.dll
+c:\users\r.rifkhakov\documents\visual studio 2015\Projects\CryptCalc\CryptCalc\bin\Debug\HtmlAgilityPack.pdb
+c:\users\r.rifkhakov\documents\visual studio 2015\Projects\CryptCalc\CryptCalc\bin\Debug\HtmlAgilityPack.xml
